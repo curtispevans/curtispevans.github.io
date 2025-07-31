@@ -1,3 +1,3 @@
 My personal website
 
-(https://curtispevans.github.io/)
+https://curtispevans.github.io/
