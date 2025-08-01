@@ -2,6 +2,7 @@
 layout: default
 title: About
 ---
-## About Me
-- Built with GitHub Pages
-- Uses Jekyll
+
+## My Profile
+
+![My professional headshot]({{'/assets/images/curtis_evans.jpg' | relative_url}})
